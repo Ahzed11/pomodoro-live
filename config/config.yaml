@@ -1,0 +1,10 @@
+duration:
+  pomodoro: 55
+  break: 5
+messages:
+  start: Time to work!
+  break: Let's have a break!
+  end: This is the eeenndd
+files:
+  output: txt/timer.txt
+
